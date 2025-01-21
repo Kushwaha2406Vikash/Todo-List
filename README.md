@@ -18,4 +18,4 @@ The objective of this project is to create a simple and interactive ToDo List ap
 ## How to Use
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Kushwaha2406Vikash/todolist-project.git
+   git clone https://github.com/Kushwaha2406Vikash/Todo-List
